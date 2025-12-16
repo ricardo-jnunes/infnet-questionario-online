@@ -98,4 +98,4 @@ dotnet test --collect:"XPlat Code Coverage"
 
 ## Documentação
 
-- [Arquitetura do Sistema](docs/arquitetura.md) - Diagramas C4, justificativas técnicas e modelo de dados
+- [Arquitetura do Sistema](docs/arquitetura.pdf) - Documentação, Diagramas C4 e decisões de implementação.
